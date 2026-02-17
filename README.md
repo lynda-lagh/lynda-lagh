@@ -1,4 +1,3 @@
-# Gh0stOfPatterns
 <div align="center">
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👋%20Hi,%20I'm%20Lynda%20Laghmardi%20&textBg=false&section=header)](https://github.com/lyndalaghmardi)
@@ -95,6 +94,6 @@ I'm a **passionate Data Scientist from Tunisia**, dedicated to turning raw data 
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer)](https://github.com/lyndalaghmardi)
 
-*"Turning data into decisions, one model at a time."*
+*"Discipline drives the work, love follows."*
 
 </div>
