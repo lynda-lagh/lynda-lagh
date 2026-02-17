@@ -39,16 +39,6 @@ A fusion of **my passions**: old movies, photography, and images~driven to explo
 - 💸 **Fraud Detection (University Project)** – Analyzing transactions to predict fraud and money transmission anomalies.  
 - 🕸️ **Data Scraping Scripts** – Custom scripts to collect, clean, and structure data from websites for analysis.
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-![Lynda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyndalaghmardi&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyndalaghmardi&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
